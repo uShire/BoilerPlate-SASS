@@ -1,0 +1,14 @@
+@import url("../scss/_01-variables.scss");
+@import url("../scss/_02-resets.scss");
+@import url("../scss/_03-base.scss");
+@import url("../scss/_04-mixins.scss");
+@import url("../scss/_05-grid.scss");
+@import url("../scss/_06-utilities.scss");
+
+/*-----COMPONENTS------*/
+@import url("../components/_footer.scss");
+@import url("../components/_header.scss");
+@import url("../components/_links.scss");
+
+/*-----PAGES------*/
+@import url("../pages/_landing.scss");
